@@ -1,0 +1,16 @@
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\bin\Debug\net5.0\Sales_Program_Project.exe
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\bin\Debug\net5.0\Sales_Program_Project.deps.json
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\bin\Debug\net5.0\Sales_Program_Project.runtimeconfig.json
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\bin\Debug\net5.0\Sales_Program_Project.runtimeconfig.dev.json
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\bin\Debug\net5.0\Sales_Program_Project.dll
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\bin\Debug\net5.0\Sales_Program_Project.pdb
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\Sales_Program_Project.csproj.AssemblyReference.cache
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\Sales_Program_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\Sales_Program_Project.AssemblyInfoInputs.cache
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\Sales_Program_Project.AssemblyInfo.cs
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\Sales_Program_Project.csproj.CoreCompileInputs.cache
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\Sales_Program_Project.dll
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\refint\Sales_Program_Project.dll
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\Sales_Program_Project.pdb
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\Sales_Program_Project.genruntimeconfig.cache
+D:\Code\GitHub\Sales-Program-Project\Sales_Program_Project\Sales_Program_Project\obj\Debug\net5.0\ref\Sales_Program_Project.dll
